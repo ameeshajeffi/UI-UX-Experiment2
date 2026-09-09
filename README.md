@@ -60,4 +60,4 @@ The Basic Mobile and Web layout is completed and verified.
 ---
 
 ### 📂 Submission Details
-* **GitHub Repository:** [https://github.com/loganathan-uiux/UI-UX-Experiment2/YOUR-REPO-NAME](https://github.com/loganathan-uiux/UI-UX-Experiment2/)
+* **GitHub Repository:** https://github.com/ameeshajeffi?tab=repositories.
